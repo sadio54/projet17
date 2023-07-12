@@ -1,0 +1,1 @@
+ecriture automatique avec variation de la vitesse
