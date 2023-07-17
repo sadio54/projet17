@@ -1,4 +1,4 @@
-Ce projet permet de faire varier le  text déjà present sur le projet de maniere automatique et en boucle, avec une variation de la vitesse d'écriture alant de 1 a 10. ce projet permet de manipuler et de comprendre plusieur propriete  javascript que vous pouvez utiliser pour la realition de projet similaire
+Ce projet permet de faire varier le  text déjà present sur le projet de maniere automatique et en boucle, avec une variation de la vitesse d'écriture alant de 1 a 10. ce projet permet de manipuler et de comprendre plusieur propriete  javascript que vous pouvez  utiliser pour la realition de projet similaire
 
 Aucune installation spécifique n'est requise pour ce projet. Vous pouvez accéder à l'application en ouvrant simplement le fichier index.html dans votre navigateur web préféré.
 
